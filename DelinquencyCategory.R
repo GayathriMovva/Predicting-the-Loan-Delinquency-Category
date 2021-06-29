@@ -6,11 +6,11 @@
 # Objective: The primary objective of this analytical exercise is to predict the type of delinquency category using 26 of the 31 available columns
 # =============================
 
-.libPaths("c:/personal/development/R Programming/library")
+.libPaths("c:/R Programming/library")
 .libPaths()
 
 # set working directory
-setwd("C:/personal/documents/george mason/courses/STAT515-Applied Statistics and Visualization/R Project/SYST515/working_directory")
+setwd("C:/R Project/working_directory")
 getwd()
 
 #install.packages("h2o")
