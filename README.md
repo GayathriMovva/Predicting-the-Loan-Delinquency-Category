@@ -9,7 +9,7 @@ The primary objective of this analytical exercise is to predict the type of deli
 ### set working directory
 setwd("Path to the Working Directory")
 
-## Install the following libraries/packages before running the code
+### Install the following libraries/packages before running the code
 
 	tidyverse
 	dplyr
